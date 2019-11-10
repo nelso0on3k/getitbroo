@@ -1,0 +1,1 @@
+[null,{"name":"status","temp":"","event-type":"1","_id":"bvHmI","actions":[{"server":"0","varName":"","info":"36","storage":"1","varName2":"uzytkownicy","name":"Store Server Info"},{"activity":"2","nameText":"poczyniania ${tempVars(\"uzytkownicy\")} osób","url":"","stat":"0","name":"Set Bot Activity"}]}]
